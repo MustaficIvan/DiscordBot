@@ -39,7 +39,7 @@ $imgArray = @(
 
 $rand = Get-Random -Maximum 36
 
-$webHookUrl = 'https://discord.com/api/webhooks/942125056547504139/lHubz6HUvW98gu-uh3erln_VnvVGb7Tazox4yt2J4XP_Z9GjK8WvWn2Gvf5QMvSYNa2f'
+$webHookUrl = 'https://discord.com/api/webhooks/944135009252569088/rhYfWidETJCkfNmJiX3jEyvZMo79OT-IWcsq2AKcEPVGBs0YNWIP7BFsMZH4dsl_5_8q'
 
 #Create embed array
 [System.Collections.ArrayList]$embedArray = @()
